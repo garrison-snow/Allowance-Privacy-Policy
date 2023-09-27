@@ -1,5 +1,5 @@
 **Allowance App Privacy Policy**
-Last updated: [Insert Date]
+Last updated: 09/27/2023
 
 **Introduction**
 Thank you for choosing to use Allowance, a mobile application ("App") developed and made available on Google Play. At Allowance, your privacy is of utmost importance to us. This Privacy Policy outlines how your personal information is treated when you use our App.
