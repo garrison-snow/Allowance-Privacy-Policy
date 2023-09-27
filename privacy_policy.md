@@ -25,6 +25,6 @@ The App is not aimed at individuals under the age of 13, but since we don't coll
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 
 **Contact Us**
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [Insert Contact Information].
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at snow.garrison.eng@gmail.com
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 By using Allowance, you consent to our Privacy Policy. If you do not agree with this policy, please do not use our App. Your continued use of the App following the posting of changes to this policy will be deemed your acceptance of those changes.
